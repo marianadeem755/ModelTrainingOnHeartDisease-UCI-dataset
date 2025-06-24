@@ -35,4 +35,3 @@ Each classifier's metrics are visualized in bar plots for easy comparison.
 
 ## License
 This project is licensed under the MIT License.
-```
